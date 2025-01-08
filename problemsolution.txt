@@ -1,0 +1,2 @@
+1. "Upgrade to the latest DRS rule set in Application Gateway WAF" - Update your Application Gateway Web Application Firewall to the latest Data Retention Standards rules to enhance security and compliance.
+2. "Consider virtual machine reserved instance to save over your on-demand costs" - Acquire reserved instances for your virtual machines to save money compared to paying on-demand rates, as this may offer significant cost savings over time.
